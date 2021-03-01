@@ -1,0 +1,136 @@
+[{
+    "id": 1,
+    "name": "Cristiano Ronaldo",
+    "image": "https://www.thesportsdb.com/images/media/player/thumb/bkre241600892282.jpg",
+    "country": "Portugal",
+    "club": "Juventus",
+    "position": "Left Wing",
+    "salary": 85000000,
+    "shortDescription":"Cristiano Ronaldo (born 5 February 1985) is a Portuguese professional footballer who plays as a forward for Serie A club Juventus and captains the Portugal national team. Often considered the best player in the world and widely regarded as one of the greatest players of all time, Ronaldo has won five Ballons d'Or and four European Golden Shoes, both of which are records for a European player."
+  }, {
+    "id": 2,
+    "name": "Lionel Messi",
+    "image": "https://www.thesportsdb.com/images/media/player/thumb/ino2iw1600892848.jpg",
+    "country": "Argentina",
+    "club": "Barcelona",
+    "position": "Right Wing",
+    "salary": 92000000,
+    "shortDescription":"Lionel Andrés Messi Cuccittini (born 24 June 1987) is an Argentine professional footballer who plays as a forward and captains both Spanish club Barcelona and the Argentina national team. Often considered the best player in the world and widely regarded as one of the greatest players of all time, Messi has won a record six Ballon d'Or awards, and a record six European Golden Shoes."
+  }, {
+    "id": 3,
+    "name": "Neymar Jr.",
+    "image": "https://www.thesportsdb.com/images/media/player/thumb/aytjeg1515930681.jpg",
+    "country": "Brazil",
+    "club": "PSG",
+    "position": "Left Wing",
+    "salary": 70000000,
+    "shortDescription":"Neymar da Silva Santos Júnior (born 5 February 1992), commonly known as Neymar Jr. or simply Neymar, is a Brazilian professional footballer who plays as a forward for Ligue 1 club Paris Saint-Germain and the Brazil national team. He is widely considered as one of the best players in the world.\r\n\r\nNeymar came into prominence at an early age at Santos, where he made his professional debut aged 17."
+  }, {
+    "id": 4,
+    "name": "Kylian Mbappe",
+    "image": "https://www.thesportsdb.com/images/media/player/thumb/rmqntd1515941747.jpg",
+    "country": "France",
+    "club": "PSG",
+    "position": "Forward",
+    "salary": 31000000,
+    "shortDescription":"Kylian Mbappé Lottin (born 20 December 1998) is a French professional footballer who plays as a forward for Ligue 1 club Paris Saint-Germain and the France national team. Considered one of the best players in the world, he is known for his finishing, dribbling, and speed.\r\n\r\nMbappé started his senior career with Ligue 1 club Monaco, where he made his professional debut in 2015, aged 16."
+  }, {
+    "id": 5,
+    "name": "Mohamed Salah",
+    "image": "https://www.thesportsdb.com/images/media/player/thumb/opbmc61510004583.jpg",
+    "country": "Egypt",
+    "club": "Liverpool",
+    "position": "Right Wing",
+    "salary": 27000000,
+    "shortDescription":"Mohamed Salah (born 15 June 1992) is an Egyptian professional footballer who plays as a forward for Premier League club Liverpool and the Egypt national team. Considered one of the best players in the world, he is known for his finishing, dribbling, and speed.\r\n\r\nSalah started his senior career with Egyptian club El Mokawloon, departing shortly thereafter to join Swiss side Basel for an undisclosed fee."
+  }, {
+    "id": 6,
+    "name": "Paul Pogba",
+    "image": "https://www.thesportsdb.com/images/media/player/thumb/c1jiqs1510319219.jpg",
+    "country": "France",
+    "club": "Manchester United",
+    "position": "Central Midfielder",
+    "salary": 25000000,
+    "shortDescription":"Paul Pogba (born 15 March 1993) is a French professional footballer who plays for Premier League club Manchester United and the French national team. He operates primarily as a central midfielder, but can also be deployed as an attacking midfielder, defensive midfielder, and deep-lying playmaker.\r\n\r\nBorn in Lagny-sur-Marne, Pogba showcased promise as a youngster, flourishing as a member of local youth teams."
+  }, {
+    "id": 7,
+    "name": "Antoine Griezmann",
+    "image": "https://www.thesportsdb.com/images/media/player/thumb/8nv7f31564602735.jpg",
+    "country": "France",
+    "club": "Barcelona",
+    "position": "Forward",
+    "salary": 24000000,
+    "shortDescription":"Antoine Griezmann (born 21 March 1991) is a French professional footballer who plays as a forward for Spanish club Barcelona and the French national team.\r\n\r\nBorn and raised in Mâcon, Griezmann began his senior career as a member of Spanish side Real Sociedad in 2009, with whom he won the Segunda División title in his first season, departing five seasons later to join Atlético Madrid for a then-club record €30 million."
+  }, {
+    "id": 8,
+    "name": "Gareth Bale",
+    "image": "https://www.thesportsdb.com/images/media/player/thumb/mvsimj1513514024.jpg",
+    "country": "Wales",
+    "club": "Tottenham",
+    "position": "Winger",
+    "salary": 21000000,
+    "shortDescription":"Gareth Frank Bale (born 16 July 1989) is a Welsh professional footballer who plays as a winger for English Premier League club Tottenham Hotspur F.C. and captains the Wales national team. Renowned for his ball striking from distance, swerving free kicks, and his ability to get past defenders with pace, Bale has received plaudits from his peers, who have described him as a footballer with \"tremendous speed, great crossing ability, a great left foot and exceptional physical qualities\"."
+  }, {
+    "id": 9,
+    "name": "Robert Lewandowski",
+    "image": "https://www.thesportsdb.com/images/media/player/thumb/2jp0ps1611001722.jpg",
+    "country": "Poland",
+    "club": "Bayern Munich",
+    "position": "Forward",
+    "salary": 20500000,
+    "shortDescription":"Robert Lewandowski (born 21 August 1988) is a Polish professional footballer who plays as a striker for Bayern Munich and is the captain of the Poland national team. He is renowned for his positioning, technique and finishing, and is widely regarded as one of the best strikers of his generation.\r\n\r\nAfter being the top scorer in the third and second tiers of Polish football with Znicz Pruszków, he moved to top-flight Lech Poznań, and was the top scorer in the league as they won the 2009–10 Ekstraklasa."
+  }, {
+    "id": 10,
+    "name": "David de Gea",
+    "image": "https://www.thesportsdb.com/images/media/player/thumb/xt634x1510319724.jpg",
+    "country": "Spain",
+    "club": "Manchester United",
+    "position": "Goalkeeper",
+    "salary": 19500000,
+    "shortDescription":"David de Gea Quintana (Spanish pronunciation: ; born 7 November 1990) is a Spanish professional footballer who plays as a goalkeeper for English club Manchester United and for the Spanish National Team.\r\n\r\nBorn in Madrid, he started his career aged 13 with Atlético Madrid and rose through the academy system at the club before making his senior debut in 2009. After being made Atlético's first-choice goalkeeper, he helped the team win both the UEFA Europa League and the UEFA Super Cup in 2010."
+  }, {
+    "id": 11,
+    "name": "Sergio Ramos",
+    "image": "https://www.thesportsdb.com/images/media/player/thumb/z3cseq1518949774.jpg",
+    "country": "Spain",
+    "club": "Real Madrid",
+    "position": "Centre Back",
+    "salary": 20000000,
+    "shortDescription":"Sergio Ramos García (Spanish pronunciation: ; born 30 March 1986) is a Spanish professional footballer who plays for and captains both La Liga club Real Madrid and the Spanish national team as a centre back. He has also played as a right back earlier in his career. Ramos is widely regarded as one of the best defenders of his generation and all time, and has received praise for his leadership as well as passing and goalscoring capabilities."
+  }, {
+    "id": 12,
+    "name": "Kevin De Bruyne",
+    "image": "https://www.thesportsdb.com/images/media/player/thumb/w1iic81510520313.jpg",
+    "country": "Belgium",
+    "club": "Manchester City",
+    "position": "Attacking Midfielder",
+    "salary": 16600000,
+    "shortDescription":"Kevin De Bruyne (born 28 June 1991) is a Belgian professional footballer who plays as a midfielder for Premier League club Manchester City and the Belgian national team. Recognized for his exceptional passing, shooting ability and dribbling, he is widely considered to be one of the best players in the world and has often been described as a \"complete\" footballer."
+  }, {
+    "id": 13,
+    "name": "Raheem Sterling",
+    "image": "https://www.thesportsdb.com/images/media/player/thumb/5lwk4o1510521558.jpg",
+    "country": "England",
+    "club": "Manchester City",
+    "position": "Right Wing",
+    "salary": 15600000,
+    "shortDescription":"Raheem Shaquille Sterling (born 8 December 1994) is a professional footballer who plays as a winger and attacking midfielder for Premier League club Manchester City and the England national team. He is often considered to be one of the best players in the world.\r\n\r\nBorn in Jamaica, Sterling moved to London at the age of five and began his career at Queens Park Rangers before signing for Liverpool in 2010."
+  }, {
+    "id": 14,
+    "name": "Sergio Aguero",
+    "image": "https://www.thesportsdb.com/images/media/player/thumb/m8kqs51510520212.jpg",
+    "country": "Argentina",
+    "club": "Manchester City",
+    "position": "Forward",
+    "salary": 11900000,
+    "shortDescription":"Sergio Leonel Agüero del Castillo (born 2 June 1988), colloquially known as Kun Agüero, is an Argentine professional footballer who plays as a striker for Premier League club Manchester City and the Argentine national team. He wears \"Kun\" on his shirt, a childhood nickname based on the title character from the cartoon Kum-Kum. He is widely considered as one of the best strikers of his generation and one of the best players in Premier League history.\r\n\r\nAgüero began his career at the Argentine Independiente."
+  }, {
+    "id": 15,
+    "name": "Virgil van Dijk",
+    "image": "https://www.thesportsdb.com/images/media/player/thumb/lpag1z1547406666.jpg",
+    "country": "Netherlands",
+    "club": "Liverpool",
+    "position": "Centre Back",
+    "salary": 10100000,
+    "shortDescription":"Virgil van Dijk (born 8 July 1991) is a Dutch professional footballer who plays as a centre-back for Premier League club Liverpool and captains the Netherlands national team. Considered one of the best defenders in the world, he is known for his strength, leadership and aerial ability. He is the only defender to win UEFA Men's Player of the Year, and has finished runner-up for the Ballon d'Or and Best FIFA Men's Player."
+  }]
