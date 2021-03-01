@@ -6,7 +6,7 @@ const SelectedPlayer = (props) => {
     let totalBudget = 0;
     for (let i = 0; i < selectedPlayer.length; i++) {
         const player = selectedPlayer[i];
-        totalBudget = totalBudget+player.salary; 
+        totalBudget = totalBudget + player.salary; 
     } 
     return (
         <div>
@@ -30,8 +30,7 @@ const SelectedPlayer = (props) => {
                                                 <p className="text-white pt-2">&euro;{player.salary}</p>
                                             </td>
                                         </tr>
-                                    )
-                                    
+                                    )                                  
                                 }
                             </tbody>
                         </table>
